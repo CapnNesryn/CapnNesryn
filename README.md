@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CapnNesryn
+- 🌱 I’m currently learning HTML & CSS. Slowly moving on to JavaScript
+- 💞️ I’m looking for guidance during my learning stage.
